@@ -31,7 +31,7 @@ This Unity project rotates between different skybox textures with a smooth fadin
 
 1. Drag the `SkyboxRotator` script onto any GameObject in your scene.
 2. In the Inspector, set the following parameters:
-   - **Skybox Textures**: Assign 3 textures to this array.
+   - **Skybox Textures**: Assign textures to this array.
    - **Switch Interval**: Set the time (in seconds) between switching textures.
    - **Fade Duration**: Set the time (in seconds) for the fade transition between textures.
 3. Press play to see the skybox textures transition with fading effects.
