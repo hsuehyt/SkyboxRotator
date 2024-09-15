@@ -25,7 +25,7 @@ This Unity project rotates between different skybox textures with a smooth fadin
    - Assign the shader `Custom/SkyboxFadeShader` to the material.
    - The shader code is available [here](https://github.com/hsuehyt/SkyboxRotator/blob/main/SkyboxFadeShader.shader).
 4. Apply this material as the skybox material in **Edit > Render Settings**.
-5. Assign your 3 skybox textures to the `SkyboxRotator` script in the Unity Inspector.
+5. Assign your skybox textures to the `SkyboxRotator` script in the Unity Inspector.
 
 ### Usage
 
